@@ -1,0 +1,13 @@
+,variable,tiny_negatives_clipped,larger_negatives_set_missing
+0,precipitation_mm_day,421,0
+1,surface_runoff_mm_day,5629,0
+2,melt_plus_rain_mm,5605,0
+3,runoff_mm_day,0,0
+4,snowfall_mm_day_water_equivalent,930,0
+5,large_scale_precipitation_mm_day,441,0
+6,rain_on_snow_mm,0,0
+7,convective_precipitation_mm_day,2591,0
+8,snowmelt_mm_day_water_equivalent,5605,0
+9,subsurface_runoff_mm_day,0,0
+10,PET_mm_day,0,0
+11,rainfall_mm_day,0,0

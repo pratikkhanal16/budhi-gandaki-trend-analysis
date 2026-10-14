@@ -1,0 +1,48 @@
+{
+  "source": "P:\\budhigandaki\\python_master_analysis\\Budhi_daily_advanced_python.csv",
+  "sha256": "8c0e7d497677a22808170b834b58afa45b72e45ef7bd1642049e474ac752ab46",
+  "rows": 26211,
+  "variables": 197,
+  "missing_calendar_days": 0,
+  "baseline": [
+    "1945-01-01",
+    "1975-12-31"
+  ],
+  "available_baseline": [
+    "1955-01-01",
+    "1975-12-31"
+  ],
+  "alpha": 0.05,
+  "settings": {
+    "input": "Budhi_daily_advanced_python.csv",
+    "output": "trend_anomaly_output",
+    "baseline_start": "1945-01-01",
+    "baseline_end": "1975-12-31",
+    "alpha": 0.05,
+    "variables": null,
+    "plot_all": false
+  },
+  "notes": [
+    "Requested baseline: 1945-01-01\u20131975-12-31; available baseline records: 1955-01-01\u20131975-12-31. Missing baseline years are not reconstructed.",
+    "Only trends and anomalies are analyzed. No detrending, forecasting, correlations, decomposition or extreme-value modeling.",
+    "Original Mann\u2013Kendall uses tie correction and continuity correction. Sen slopes use actual year spacing; 95% slope intervals assume independent observations.",
+    "Seasonal MK compares the same calendar month across years and sums month-specific scores and variances. Seasonal Sen is the median of within-month pair slopes. Monthly daily flux means are used for this test.",
+    "MK significance assumes independent observations; seasonal MK also omits cross-month covariance. Autocorrelation can make p-values optimistic. Annual lag-1 correlation is reported as a diagnostic, without removing trends or changing the series.",
+    "Benjamini\u2013Hochberg FDR is applied separately within each trend table. Statistical significance is reported at the configured alpha. No slope confidence interval is claimed for pooled seasonal Sen.",
+    "Daily anomalies use calendar month/day climatology; annual and season-year anomalies use baseline annual and seasonal means. Monthly anomalies are omitted. Standardized anomalies divide by sample SD, not standard error. Zero SD gives missing z-scores.",
+    "Rainfall and snowfall shares are 100 \u00d7 annual component total / annual precipitation total. Snowfall uses water-equivalent mm. Zero precipitation or incomplete years yield missing ratios. Percentage anomalies and slopes use percentage points. Source components can differ slightly from total precipitation; shares are not forced to add to 100%.",
+    "Plot units follow source column names and ERA5 parameter definitions. Existing derived-column units follow the named parent variables. Daily flux totals are mm/year; annually averaged source accumulations retain daily accumulation units.",
+    "Complete observed periods only. Incomplete October 2026, annual 2026, and SON 2026 are excluded from respective period statistics. December belongs to the following DJF year.",
+    "Trend tests require at least 10 complete years. Columns with insufficient complete years are listed in annual_trends_insufficient_data.csv.",
+    "Known daily water fluxes are summed; other variables are averaged. Existing rolling, anomaly and binary columns are included if varying but their means are descriptive and their original definitions must be verified.",
+    "Source CSV is preserved. Tiny negative water fluxes (-0.001 to 0 mm) become zero; more negative water fluxes become missing. Negative temperatures and signed water-balance values are retained.",
+    "The reported flood is October 11, 2026; observations end October 5. Anomalies describe the available pre-event period, not unobserved flood-day conditions.",
+    "One ERA5 point is not catchment-average rainfall or measured discharge. Runoff is a modeled depth. ERA5 snow depth is metres of water equivalent; verify export metadata."
+  ],
+  "versions": {
+    "numpy": "2.4.6",
+    "pandas": "3.0.3",
+    "scipy": "1.17.1",
+    "matplotlib": "3.11.1"
+  }
+}

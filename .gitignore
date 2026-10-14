@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+superseded_analysis_output/
+trend_anomaly_output/analysis.log
+_github_publish.py

@@ -1,0 +1,198 @@
+,annual_monthly_statistic,daily_source_unit,annual_plot_unit,annual_sen_slope_unit
+boundary_layer_height_mean,mean,m,m,m/decade
+clear_sky_direct_solar_radiation_at_surface_sum,mean,J/m² (daily accumulation),J/m² (daily accumulation),J/m² (daily accumulation)/decade
+cloud_base_height_mean,mean,m,m,m/decade
+convective_available_potential_energy_max,mean,J/kg,J/kg,J/kg/decade
+convective_available_potential_energy_mean,mean,J/kg,J/kg,J/kg/decade
+convective_precipitation_mm_day,total,mm/day,mm/year,mm/year/decade
+convective_precipitation_sum,mean,m water equivalent/day,m water equivalent/day,m water equivalent/day/decade
+convective_snowfall_sum,mean,m water equivalent/day,m water equivalent/day,m water equivalent/day/decade
+dewpoint_temperature_2m_C_max,mean,°C,°C,°C/decade
+dewpoint_temperature_2m_C_mean,mean,°C,°C,°C/decade
+dewpoint_temperature_2m_C_min,mean,°C,°C,°C/decade
+downward_uv_radiation_at_the_surface_sum,mean,J/m² (daily accumulation),J/m² (daily accumulation),J/m² (daily accumulation)/decade
+forecast_albedo_mean,mean,dimensionless (0–1),dimensionless (0–1),dimensionless (0–1)/decade
+high_cloud_cover_mean,mean,dimensionless (0–1),dimensionless (0–1),dimensionless (0–1)/decade
+instantaneous_10m_wind_gust_max,mean,m/s,m/s,m/s/decade
+k_index_mean,mean,K,K,K/decade
+large_scale_precipitation_mm_day,total,mm/day,mm/year,mm/year/decade
+large_scale_precipitation_sum,mean,m water equivalent/day,m water equivalent/day,m water equivalent/day/decade
+large_scale_snowfall_sum,mean,m water equivalent/day,m water equivalent/day,m water equivalent/day/decade
+leaf_area_index_high_vegetation_mean,mean,m²/m²,m²/m²,m²/m²/decade
+leaf_area_index_low_vegetation_mean,mean,m²/m²,m²/m²,m²/m²/decade
+low_cloud_cover_mean,mean,dimensionless (0–1),dimensionless (0–1),dimensionless (0–1)/decade
+low_vegetation_cover_mean,mean,dimensionless (0–1),dimensionless (0–1),dimensionless (0–1)/decade
+mean_sea_level_pressure_mean,mean,Pa,Pa,Pa/decade
+mean_vertically_integrated_moisture_divergence_mean,mean,kg/m²/s,kg/m²/s,kg/m²/s/decade
+medium_cloud_cover_mean,mean,dimensionless (0–1),dimensionless (0–1),dimensionless (0–1)/decade
+net_solar_radiation_MJ_m2_day,mean,MJ/m²/day,MJ/m²/day,MJ/m²/day/decade
+potential_evaporation_mm_day_raw_sign,mean,mm/day,mm/day,mm/day/decade
+potential_evaporation_sum,mean,m water equivalent/day,m water equivalent/day,m water equivalent/day/decade
+precipitation_mm_day,total,mm/day,mm/year,mm/year/decade
+relative_humidity_percent_max,mean,%,%,%/decade
+relative_humidity_percent_mean,mean,%,%,%/decade
+relative_humidity_percent_min,mean,%,%,%/decade
+runoff_mm_day,total,mm/day,mm/year,mm/year/decade
+runoff_sum,mean,m water equivalent/day,m water equivalent/day,m water equivalent/day/decade
+skin_reservoir_content_mean,mean,m water equivalent,m water equivalent,m water equivalent/decade
+skin_temperature_C_mean,mean,°C,°C,°C/decade
+snow_albedo_mean,mean,dimensionless (0–1),dimensionless (0–1),dimensionless (0–1)/decade
+snow_density_mean,mean,kg/m³,kg/m³,kg/m³/decade
+snow_depth_mean,mean,m water equivalent,m water equivalent,m water equivalent/decade
+snow_evaporation_sum,mean,m water equivalent/day,m water equivalent/day,m water equivalent/day/decade
+snowfall_mm_day_water_equivalent,total,mm/day,mm/year,mm/year/decade
+snowfall_sum,mean,m water equivalent/day,m water equivalent/day,m water equivalent/day/decade
+snowmelt_mm_day_water_equivalent,total,mm/day,mm/year,mm/year/decade
+snowmelt_sum,mean,m water equivalent/day,m water equivalent/day,m water equivalent/day/decade
+soil_temperature_level_1_C_mean,mean,°C,°C,°C/decade
+soil_temperature_level_2_C_mean,mean,°C,°C,°C/decade
+soil_temperature_level_3_C_mean,mean,°C,°C,°C/decade
+soil_temperature_level_4_C_mean,mean,°C,°C,°C/decade
+solar_radiation_MJ_m2_day,mean,MJ/m²/day,MJ/m²/day,MJ/m²/day/decade
+sub_surface_runoff_sum,mean,m water equivalent/day,m water equivalent/day,m water equivalent/day/decade
+subsurface_runoff_mm_day,total,mm/day,mm/year,mm/year/decade
+surface_latent_heat_flux_sum,mean,J/m² (daily accumulation),J/m² (daily accumulation),J/m² (daily accumulation)/decade
+surface_net_solar_radiation_sum,mean,J/m² (daily accumulation),J/m² (daily accumulation),J/m² (daily accumulation)/decade
+surface_net_thermal_radiation_sum,mean,J/m² (daily accumulation),J/m² (daily accumulation),J/m² (daily accumulation)/decade
+surface_pressure_mean,mean,Pa,Pa,Pa/decade
+surface_runoff_mm_day,total,mm/day,mm/year,mm/year/decade
+surface_runoff_sum,mean,m water equivalent/day,m water equivalent/day,m water equivalent/day/decade
+surface_sensible_heat_flux_sum,mean,J/m² (daily accumulation),J/m² (daily accumulation),J/m² (daily accumulation)/decade
+surface_solar_radiation_downwards_sum,mean,J/m² (daily accumulation),J/m² (daily accumulation),J/m² (daily accumulation)/decade
+surface_thermal_radiation_downwards_sum,mean,J/m² (daily accumulation),J/m² (daily accumulation),J/m² (daily accumulation)/decade
+temperature_2m_C_max,mean,°C,°C,°C/decade
+temperature_2m_C_mean,mean,°C,°C,°C/decade
+temperature_2m_C_min,mean,°C,°C,°C/decade
+thermal_radiation_MJ_m2_day,mean,MJ/m²/day,MJ/m²/day,MJ/m²/day/decade
+toa_incident_solar_radiation_sum,mean,J/m² (daily accumulation),J/m² (daily accumulation),J/m² (daily accumulation)/decade
+total_cloud_cover_mean,mean,dimensionless (0–1),dimensionless (0–1),dimensionless (0–1)/decade
+total_column_cloud_ice_water_mean,mean,kg/m²,kg/m²,kg/m²/decade
+total_column_cloud_liquid_water_mean,mean,kg/m²,kg/m²,kg/m²/decade
+total_column_rain_water_mean,mean,kg/m²,kg/m²,kg/m²/decade
+total_column_snow_water_mean,mean,kg/m²,kg/m²,kg/m²/decade
+total_column_water_mean,mean,kg/m²,kg/m²,kg/m²/decade
+total_column_water_vapour_mean,mean,kg/m²,kg/m²,kg/m²/decade
+total_precipitation_sum,mean,m water equivalent/day,m water equivalent/day,m water equivalent/day/decade
+total_sky_direct_solar_radiation_at_surface_sum,mean,J/m² (daily accumulation),J/m² (daily accumulation),J/m² (daily accumulation)/decade
+total_totals_index_mean,mean,K,K,K/decade
+u_component_of_wind_100m_mean,mean,m/s,m/s,m/s/decade
+u_component_of_wind_10m_mean,mean,m/s,m/s,m/s/decade
+v_component_of_wind_100m_mean,mean,m/s,m/s,m/s/decade
+v_component_of_wind_10m_mean,mean,m/s,m/s,m/s/decade
+vertical_integral_of_eastward_water_vapour_flux_mean,mean,kg/m/s,kg/m/s,kg/m/s/decade
+vertical_integral_of_northward_water_vapour_flux_mean,mean,kg/m/s,kg/m/s,kg/m/s/decade
+volumetric_soil_water_layer_1_mean,mean,m³/m³,m³/m³,m³/m³/decade
+volumetric_soil_water_layer_2_mean,mean,m³/m³,m³/m³,m³/m³/decade
+volumetric_soil_water_layer_3_mean,mean,m³/m³,m³/m³,m³/m³/decade
+volumetric_soil_water_layer_4_mean,mean,m³/m³,m³/m³,m³/m³/decade
+wind_speed_100m_ms_mean,mean,m/s,m/s,m/s/decade
+wind_speed_10m_ms_max,mean,m/s,m/s,m/s/decade
+wind_speed_10m_ms_mean,mean,m/s,m/s,m/s/decade
+zero_degree_level_mean,mean,m,m,m/decade
+PET_mm_day,total,mm/day,mm/year,mm/year/decade
+climatic_water_balance_mm,total,mm/day,mm/year,mm/year/decade
+P3,mean,mm (rolling total),mm (rolling total),mm (rolling total)/decade
+P7,mean,mm (rolling total),mm (rolling total),mm (rolling total)/decade
+P15,mean,mm (rolling total),mm (rolling total),mm (rolling total)/decade
+P30,mean,mm (rolling total),mm (rolling total),mm (rolling total)/decade
+P60,mean,mm (rolling total),mm (rolling total),mm (rolling total)/decade
+P90,mean,mm (rolling total),mm (rolling total),mm (rolling total)/decade
+SM1_3,mean,m³/m³,m³/m³,m³/m³/decade
+SM1_7,mean,m³/m³,m³/m³,m³/m³/decade
+SM1_15,mean,m³/m³,m³/m³,m³/m³/decade
+SM1_30,mean,m³/m³,m³/m³,m³/m³/decade
+runoff_3,mean,mm (rolling total),mm (rolling total),mm (rolling total)/decade
+runoff_7,mean,mm (rolling total),mm (rolling total),mm (rolling total)/decade
+runoff_15,mean,mm (rolling total),mm (rolling total),mm (rolling total)/decade
+runoff_30,mean,mm (rolling total),mm (rolling total),mm (rolling total)/decade
+melt_3,mean,mm (rolling total),mm (rolling total),mm (rolling total)/decade
+melt_7,mean,mm (rolling total),mm (rolling total),mm (rolling total)/decade
+melt_15,mean,mm (rolling total),mm (rolling total),mm (rolling total)/decade
+melt_30,mean,mm (rolling total),mm (rolling total),mm (rolling total)/decade
+snow_present,mean,indicator (0/1),fraction of days (0–1),fraction of days (0–1)/decade
+substantial_snow,mean,indicator (0/1),fraction of days (0–1),fraction of days (0–1)/decade
+snow_presence_fraction,mean,dimensionless (0–1),dimensionless (0–1),dimensionless (0–1)/decade
+snow_depth_change_1d,mean,m water equivalent,m water equivalent,m water equivalent/decade
+snow_depth_change_3d,mean,m water equivalent,m water equivalent,m water equivalent/decade
+snow_depth_change_7d,mean,m water equivalent,m water equivalent,m water equivalent/decade
+positive_temperature_day,mean,indicator (0/1),fraction of days (0–1),fraction of days (0–1)/decade
+negative_temperature_day,mean,indicator (0/1),fraction of days (0–1),fraction of days (0–1)/decade
+air_freeze_thaw_day,mean,indicator (0/1),fraction of days (0–1),fraction of days (0–1)/decade
+air_TDD,mean,°C·day,°C·day,°C·day/decade
+air_FDD,mean,°C·day,°C·day,°C·day/decade
+ST1_TDD,mean,°C·day,°C·day,°C·day/decade
+ST1_FDD,mean,°C·day,°C·day,°C·day/decade
+ST1_frozen_day,mean,indicator (0/1),fraction of days (0–1),fraction of days (0–1)/decade
+ST1_positive_day,mean,indicator (0/1),fraction of days (0–1),fraction of days (0–1)/decade
+ST1_freeze_thaw_transition,mean,indicator (0/1),fraction of days (0–1),fraction of days (0–1)/decade
+ST2_TDD,mean,°C·day,°C·day,°C·day/decade
+ST2_FDD,mean,°C·day,°C·day,°C·day/decade
+ST2_frozen_day,mean,indicator (0/1),fraction of days (0–1),fraction of days (0–1)/decade
+ST2_positive_day,mean,indicator (0/1),fraction of days (0–1),fraction of days (0–1)/decade
+ST2_freeze_thaw_transition,mean,indicator (0/1),fraction of days (0–1),fraction of days (0–1)/decade
+ST3_TDD,mean,°C·day,°C·day,°C·day/decade
+ST3_FDD,mean,°C·day,°C·day,°C·day/decade
+ST3_frozen_day,mean,indicator (0/1),fraction of days (0–1),fraction of days (0–1)/decade
+ST3_positive_day,mean,indicator (0/1),fraction of days (0–1),fraction of days (0–1)/decade
+ST3_freeze_thaw_transition,mean,indicator (0/1),fraction of days (0–1),fraction of days (0–1)/decade
+ST4_TDD,mean,°C·day,°C·day,°C·day/decade
+ST4_FDD,mean,°C·day,°C·day,°C·day/decade
+ST4_frozen_day,mean,indicator (0/1),fraction of days (0–1),fraction of days (0–1)/decade
+ST4_positive_day,mean,indicator (0/1),fraction of days (0–1),fraction of days (0–1)/decade
+ST4_freeze_thaw_transition,mean,indicator (0/1),fraction of days (0–1),fraction of days (0–1)/decade
+ST1_air_offset,mean,°C,°C,°C/decade
+ST2_air_offset,mean,°C,°C,°C/decade
+ST12_gradient,mean,°C,°C,°C/decade
+ST23_gradient,mean,°C,°C,°C/decade
+ST34_gradient,mean,°C,°C,°C/decade
+thawed_layer_count,mean,layers (0–4),layers (0–4),layers (0–4)/decade
+rainfall_mm_day,total,mm/day,mm/year,mm/year/decade
+rain_on_snow_mm,total,mm/day,mm/year,mm/year/decade
+melt_plus_rain_mm,total,mm/day,mm/year,mm/year/decade
+compound_melt_rain_day,mean,indicator (0/1),fraction of days (0–1),fraction of days (0–1)/decade
+runoff_clim,mean,mm/day,mm/day,mm/day/decade
+snow_depth_clim,mean,m water equivalent,m water equivalent,m water equivalent/decade
+snowmelt_clim,mean,mm/day,mm/day,mm/day/decade
+zero_level_clim,mean,m,m,m/decade
+precipitation_anomaly,mean,mm/day,mm/day,mm/day/decade
+runoff_anomaly,mean,mm/day,mm/day,mm/day/decade
+snow_depth_anomaly,mean,m water equivalent,m water equivalent,m water equivalent/decade
+snowmelt_anomaly,mean,mm/day,mm/day,mm/day/decade
+zero_level_anomaly,mean,m,m,m/decade
+P5,mean,mm (rolling total),mm (rolling total),mm (rolling total)/decade
+AN_P7_z,mean,dimensionless (z-score),dimensionless (z-score),dimensionless (z-score)/decade
+AN_SM1_7_z,mean,dimensionless (z-score),dimensionless (z-score),dimensionless (z-score)/decade
+AN_runoff_7_z,mean,dimensionless (z-score),dimensionless (z-score),dimensionless (z-score)/decade
+AN_melt_7_z,mean,dimensionless (z-score),dimensionless (z-score),dimensionless (z-score)/decade
+AN_temperature_2m_C_mean_z,mean,dimensionless (z-score),dimensionless (z-score),dimensionless (z-score)/decade
+AN_soil_temperature_level_1_C_mean_z,mean,dimensionless (z-score),dimensionless (z-score),dimensionless (z-score)/decade
+climatic_water_balance,total,mm/day,mm/year,mm/year/decade
+snow_fraction,mean,dimensionless (0–1),dimensionless (0–1),dimensionless (0–1)/decade
+positive_temp_day,mean,indicator (0/1),fraction of days (0–1),fraction of days (0–1)/decade
+negative_temp_day,mean,indicator (0/1),fraction of days (0–1),fraction of days (0–1)/decade
+ST1_transition,mean,indicator (0/1),fraction of days (0–1),fraction of days (0–1)/decade
+ST2_transition,mean,indicator (0/1),fraction of days (0–1),fraction of days (0–1)/decade
+ST3_transition,mean,indicator (0/1),fraction of days (0–1),fraction of days (0–1)/decade
+ST4_transition,mean,indicator (0/1),fraction of days (0–1),fraction of days (0–1)/decade
+T_clim,mean,°C,°C,°C/decade
+P_clim,mean,mm/day,mm/day,mm/day/decade
+SM1_clim,mean,m³/m³,m³/m³,m³/m³/decade
+Q_clim,mean,mm/day,mm/day,mm/day/decade
+SD_clim,mean,m water equivalent,m water equivalent,m water equivalent/decade
+MELT_clim,mean,mm/day,mm/day,mm/day/decade
+ZERO_clim,mean,m,m,m/decade
+ST1_clim,mean,°C,°C,°C/decade
+ST2_clim,mean,°C,°C,°C/decade
+ST3_clim,mean,°C,°C,°C/decade
+ST4_clim,mean,°C,°C,°C/decade
+T_anomaly,mean,°C,°C,°C/decade
+P_anomaly,mean,mm/day,mm/day,mm/day/decade
+SM1_anomaly,mean,m³/m³,m³/m³,m³/m³/decade
+Q_anomaly,mean,mm/day,mm/day,mm/day/decade
+SD_anomaly,mean,m water equivalent,m water equivalent,m water equivalent/decade
+MELT_anomaly,mean,mm/day,mm/day,mm/day/decade
+ZERO_anomaly,mean,m,m,m/decade
+ST1_anomaly,mean,°C,°C,°C/decade
+ST2_anomaly,mean,°C,°C,°C/decade
+ST3_anomaly,mean,°C,°C,°C/decade
+ST4_anomaly,mean,°C,°C,°C/decade
